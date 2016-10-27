@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<NetworkLink>
+	<name>BitPB</name>
+	<open>1</open>
+	<LookAt>
+		<longitude>-15.0366665</longitude>
+		<latitude>25.31347351999699</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>16377095.76490721</range>
+	</LookAt>
+	<Link>
+		<href>http://wellsgis.slb.com:6080/arcgis/services/wellsgisnew/MEDIA2016/MapServer/KmlServer?Composite=false&amp;LayerIDs=0&amp;</href>
+		<viewRefreshMode>onRequest</viewRefreshMode>
+		<viewFormat>BBOX=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth];CAMERA=[lookatLon],[lookatLat],[lookatRange],[lookatTilt],[lookatHeading];VIEW=[horizFov],[vertFov],[horizPixels],[vertPixels],[terrainEnabled]</viewFormat>
+	</Link>
+</NetworkLink>
+</kml>
